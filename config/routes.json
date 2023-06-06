@@ -1,0 +1,4 @@
+[
+    { "route": "auth" },    
+    { "route": "admin" }
+]
